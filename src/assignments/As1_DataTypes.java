@@ -1,6 +1,6 @@
-package language.basics;
+package assignments;
 
-public class DataTypes {
+public class As1_DataTypes {
 
 	public static void main(String[] args) {
 

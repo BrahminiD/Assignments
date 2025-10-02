@@ -1,6 +1,6 @@
-package language.basics;
+package assignments;
 
-public class ArrayPractice {
+public class As2_ArrayPractice {
 
 	public static void main(String[] args) {
 

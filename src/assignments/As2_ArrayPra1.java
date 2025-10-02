@@ -1,6 +1,6 @@
-package language.basics;
+package assignments;
 
-public class ArrayPra1 {
+public class As2_ArrayPra1 {
 
 	public static void main(String[] args) {
 
